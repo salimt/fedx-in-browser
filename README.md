@@ -4,7 +4,7 @@ A workspace for running federated SPARQL queries in the browser. It uses [FedX 6
 
 You choose which SPARQL endpoints to include, write a single query, and FedX works out which endpoint gets which part of it and joins the results. Wikidata, DBpedia and UniProt are set up by default. You can add your own.
 
-**Try It:** https://salimt.github.io/fedx-wasm/
+**Try It Now:** https://salimt.github.io/fedx-wasm/
 
 
 ## What it does
